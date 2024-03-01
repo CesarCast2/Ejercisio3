@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercisio3</string>
+    <string name="app_Titulo" />
+    <string name="label_text1">numero</string>
+    <string name="Titulo">Calculadora</string>
+    <string name="resta">Resta</string>
+    <string name="Suma">Suma</string>
+    <string name="rdmulti">Multiplicacion</string>
+    <string name="Division">Division</string>
+</resources>
